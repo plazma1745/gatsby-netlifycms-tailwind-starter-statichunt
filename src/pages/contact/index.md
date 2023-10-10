@@ -16,8 +16,8 @@ office:
     143 Fake Street\
     London
   phone: |-
-    Email: fake@urbangarden.com\
-    Phone: 01234 567 891\
-    Monday to Friday 9-6pm GMT.
+    Email: plazma1754@gmail.com\
+    Phone: +79320194990\
+    Понедельник - пятница 8-17.
   image: /img/klaudia-piaskowska-g3lrnieizq4-unsplash.jpg
 ---
